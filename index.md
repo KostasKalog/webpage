@@ -4,6 +4,14 @@
 
 Associate Professor in Statistics
 
+*Address:* 
+Houghton Street
+Columbia House Room 610
+Department of Statistics
+London School of Economics
+
+
+
 ## Meeting schedule
 
 ### Michaelmans Term
