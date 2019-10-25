@@ -7,15 +7,7 @@ Associate Professor in Statistics
 **Office:** Columbia House Room 610
 
 
-**Address:** 
-
-Houghton Street
-
-Department of Statistics
-
-London School of Economics
-
-London WC2A 2AE, UK
+**Address:** Houghton Street, Department of Statistics, London School of Economics, London WC2A 2AE, UK
 
 
 
