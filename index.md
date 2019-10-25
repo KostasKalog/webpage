@@ -13,7 +13,7 @@ Associate Professor - [Department of Statistics](http://www.lse.ac.uk/statistics
 
 **Research Interests:** Bayesian Inference, Stochastic Volatility, Epidemic Models, Factor Analysis, Mixtures
 
-[Publications](http://www.lse.ac.uk)
+[Publications](http://www.lse.ac.uk)    [LSE: Data Science Group](http://www.lse.ac.uk/statistics)   [LSE: Social Statistics Group](http://www.lse.ac.uk/statistics)         
 
 ## Teaching 
 
