@@ -1,7 +1,5 @@
 <!---![LSE](lse-logo.jpg)--->
 
-# Kostas Kalogeropoulos
-
 Associate Professor in Statistics - London School of Economics
 
 ## Contact Details 
