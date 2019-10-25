@@ -1,6 +1,8 @@
-![LSE](lse-logo.jpg)
+<---![LSE](lse-logo.jpg)--->
 
-# `Theory of ML` Study Group
+# Kostas Kalogeropoulos
+
+Associate Professor in Statistics
 
 ## Meeting schedule
 
