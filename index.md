@@ -1,4 +1,4 @@
-<---![LSE](lse-logo.jpg)--->
+![LSE](Kalogeropoulos.jpg)
 
 ## Short Bio
 
