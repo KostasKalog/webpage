@@ -14,7 +14,7 @@ Within my department I am more linked with these groups: [Data Science Group](ht
 
 ## Teaching 
 
-I currently teach the MSc courses [ST451: Bayesian Machine Learning](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST451.htm?from_serp=1) and the BSc course [ST308: Bayesian Inferences](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST308.htm?from_serp=1)
+I currently teach the MSc courses [ST451: Bayesian Machine Learning](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST451.htm?from_serp=1) and the BSc course [ST308: Bayesian Inference](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST308.htm?from_serp=1)
 
 I also teach the [LSE Summer School](http://www.lse.ac.uk/Study-at-LSE/Summer-Schools/Summer-School) Course [ME315: Machine Learning in Practice](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME315)
 
