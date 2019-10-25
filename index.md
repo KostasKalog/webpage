@@ -1,4 +1,4 @@
-![LSE](Kalogeropoulos.jpg)
+![LSE](kostas_photo.jpg)
 
 ## Short Bio
 
