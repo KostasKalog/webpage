@@ -1,4 +1,4 @@
-<!---![LSE](lse-logo.jpg)--->
+<---![LSE](lse-logo.jpg)--->
 
 ## Short Bio
 
