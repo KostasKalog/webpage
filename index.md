@@ -15,7 +15,7 @@ Associate Professor - [Department of Statistics](http://www.lse.ac.uk/statistics
 
 A list of publications can be found here [Publications](http://www.lse.ac.uk).    
 
-Within my department I am more linked with these groups: [Data Science Group](http://www.lse.ac.uk/statistics), Social Statistics Group](http://www.lse.ac.uk/statistics).         
+Within my department I am more linked with these groups: [Data Science Group](http://www.lse.ac.uk/statistics), [Social Statistics Group](http://www.lse.ac.uk/statistics).         
 
 ## Teaching 
 
