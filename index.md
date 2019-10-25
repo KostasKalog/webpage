@@ -1,6 +1,6 @@
 <!---![LSE](lse-logo.jpg)--->
 
-Associate Professor in Statistics - London School of Economics
+Associate Professor - [Department of Statistics](http://www.lse.ac.uk/statistics) - [London School of Economics](http://www.lse.ac.uk)
 
 ## Contact Details 
 
@@ -10,6 +10,10 @@ Associate Professor in Statistics - London School of Economics
 **Email:** k.kalogeropoulos at lse dot ac dot uk<br>
 
 ## Research
+
+**Research Interests:** Bayesian Inference, Stochastic Volatility, Epidemic Models, Factor Analysis, Mixtures
+
+[Publications](http://www.lse.ac.uk)
 
 ## Teaching 
 
