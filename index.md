@@ -1,13 +1,8 @@
 <!---![LSE](lse-logo.jpg)--->
 
-Associate Professor - [Department of Statistics](http://www.lse.ac.uk/statistics) - [London School of Economics](http://www.lse.ac.uk)
+## Short Bio
 
-## Contact Details 
-
-**Office:** Columbia House Room 610 <br>
-**Address:** Houghton Street, Department of Statistics, London School of Economics, London WC2A 2AE, UK <br>
-**Tel:** +44 (0) 207 755 6017 <br>
-**Email:** k.kalogeropoulos at lse dot ac dot uk<br>
+I am currently an Associate Professor in the [Department of Statistics](http://www.lse.ac.uk/statistics) of the [London School of Economics](http://www.lse.ac.uk). Before I was a post-doctoral researcher at the University of Cambridge, in the Signal Processing Laboratory of the Engineering Department. I completed my PhD in the Department of Statistics of the Athens University of Economics and Business.
 
 ## Research
 
@@ -31,4 +26,9 @@ Part of the [Greek Stochastics Team](http://www.stochastics.gr). Check out our [
 
 Organiser of the [Theory of Machine Learning Reading Group](https://kostaskalog.github.io/theoryML2019-20/).
 
+## Contact Details 
 
+**Office:** Columbia House Room 610 <br>
+**Address:** Houghton Street, Department of Statistics, London School of Economics, London WC2A 2AE, UK <br>
+**Tel:** +44 (0) 207 755 6017 <br>
+**Email:** k.kalogeropoulos at lse dot ac dot uk<br>
