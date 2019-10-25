@@ -13,13 +13,22 @@ Associate Professor - [Department of Statistics](http://www.lse.ac.uk/statistics
 
 **Research Interests:** Bayesian Inference, Stochastic Volatility, Epidemic Models, Factor Analysis, Mixtures.
 
-A list of publications can be found here [Publications](http://www.lse.ac.uk).    
+A list of publications can be found [here](http://www.lse.ac.uk).    
 
-Within my department I am more linked with these groups: [Data Science Group](http://www.lse.ac.uk/statistics), [Social Statistics Group](http://www.lse.ac.uk/statistics).         
+Within my department I am more linked with these groups: [Data Science Group](http://www.lse.ac.uk/Statistics/Research/Data-Science), [Social Statistics Group](http://www.lse.ac.uk/Statistics/Research/Social-Statistics).         
 
 ## Teaching 
 
+I currently teach the MSc courses [ST451: Bayesian Machine Learning](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST451.htm?from_serp=1) and the BSc course [ST308: Bayesian Inferences](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST308.htm?from_serp=1)
+
+I also teach the [LSE Summer School](http://www.lse.ac.uk/Study-at-LSE/Summer-Schools/Summer-School) Course [ME315: Machine Learning in Practice](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME315)
+
 ## Admin
 
+Programme Director of LSE's [MSc in Statistics](http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2020/MSc-Statistics).
+
+Part of the [Greek Stochastics Team](http://www.stochastics.gr). Check out our [recent workhshop](http://www.stochastics.gr/meetings/lambda/index.html).
+
+Organiser of the [Theory of Machine Learning Reading Group](https://kostaskalog.github.io/theoryML2019-20/).
 
 
