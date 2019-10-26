@@ -1,15 +1,8 @@
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">![kostas](kostas_photo.jpg)</b></td>
-    <td><b style="font-size:30px">Short Bio 
-I am currently an Associate Professor in the [Department of Statistics](http://www.lse.ac.uk/statistics) of the [London School of Economics](http://www.lse.ac.uk). Before I was a post-doctoral researcher at the University of Cambridge, in the Signal Processing Laboratory of the Engineering Department. I completed my PhD in the Department of Statistics of the Athens University of Economics and Business.    </b></td>
- </tr>
- <tr>
- </tr>
-</table>
+[kostas](kostas_photo.jpg)
 
+## Short Bio 
 
-                                                       |
+I am currently an Associate Professor in the [Department of Statistics](http://www.lse.ac.uk/statistics) of the [London School of Economics](http://www.lse.ac.uk). Before I was a post-doctoral researcher at the University of Cambridge, in the Signal Processing Laboratory of the Engineering Department. I completed my PhD in the Department of Statistics of the Athens University of Economics and Business.
 
 ## Research
 
