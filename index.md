@@ -6,10 +6,9 @@ I am currently an Associate Professor in the [Department of Statistics](http://w
 
 ## Research
 
-**Research Interests:** <br> 
-Bayesian Inference, Stochastic Volatility, Markov Chain Monte Carlo, Sequential Monte Carlo, Epidemic Models, Factor Analysis.<br>
-A list of publications can be found [here](https://kostaskalog.github.io/publications/).<br>
-Within my department I am more linked with these groups: [Data Science Group](http://www.lse.ac.uk/Statistics/Research/Data-Science), [Social Statistics Group](http://www.lse.ac.uk/Statistics/Research/Social-Statistics).         
+*Research Interests:* Bayesian Inference, Diffusions, Markov Chain Monte Carlo, Sequential Monte Carlo, Epidemic Models, Factor Analysis.<br>
+*Publications:* A list of publications can be found [here](https://kostaskalog.github.io/publications/).<br>
+*Groups:* Within my department I am more linked with these groups: [Data Science Group](http://www.lse.ac.uk/Statistics/Research/Data-Science), [Social Statistics Group](http://www.lse.ac.uk/Statistics/Research/Social-Statistics).         
 
 ## Teaching 
 
