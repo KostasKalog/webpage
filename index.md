@@ -1,4 +1,4 @@
-![kostas](kkpic.png){ width=50% }
+![kostas](kkpic.png)
 
 ## Short Bio 
 
