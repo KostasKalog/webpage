@@ -1,4 +1,4 @@
-![kostas](kostas_photo.jpg)
+![kostas](kkpic.png)
 
 ## Short Bio 
 
