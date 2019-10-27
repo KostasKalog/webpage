@@ -1,4 +1,4 @@
-![kostas 2%](kkpic.png)
+![kostas | 2%](kkpic.png)
 
 ## Short Bio 
 
