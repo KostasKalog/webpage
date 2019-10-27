@@ -1,4 +1,4 @@
-![](kkpic.png)
+![20%](kkpic.png)
 
 ## Short Bio 
 
