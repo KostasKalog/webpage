@@ -1,4 +1,4 @@
-![kostas](kkpic.png =10x2)
+![](kkpic.png =100x20)
 
 ## Short Bio 
 
