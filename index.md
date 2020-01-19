@@ -12,7 +12,7 @@ I am currently an Associate Professor in the [Department of Statistics](http://w
 
 ## Teaching 
 
-I currently teach the MSc course [ST451: Bayesian Machine Learning](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST451.htm?from_serp=1) and the BSc course [ST308: Bayesian Inference](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST308.htm?from_serp=1)<br>
+I currently teach the MSc course [ST451: Bayesian Machine Learning](https://kostaskalog.github.io/lse-st451/.) and the BSc course [ST308: Bayesian Inference](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST308.htm?from_serp=1)<br>
 I also teach the [LSE Summer School](http://www.lse.ac.uk/Study-at-LSE/Summer-Schools/Summer-School) Course [ME315: Machine Learning in Practice](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Research-Methods-Data-Science-and-Mathematics/ME315)
 
 ## Admin
